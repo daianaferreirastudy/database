@@ -1,4 +1,4 @@
-,Pressao_Arterial,Idade,Genero,Etnia,Estado_Saude,Nome_Genero,Nome_Etnia,Nome_Estado_Saude
+id,Pressao_Arterial,Idade,Genero,Etnia,Estado_Saude,Nome_Genero,Nome_Etnia,Nome_Estado_Saude
 0,142.75580946493355,31,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
 1,161.8784676186195,35,1,1,0,Feminino,Afro-americano,Saudável
 2,161.50825884914804,39,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
